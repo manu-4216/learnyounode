@@ -1,0 +1,19 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "description": "learn node js tutorial from learnyounode",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manu-4216/learnyounode.git"
+  },
+  "author": "Manuel MICU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manu-4216/learnyounode/issues"
+  },
+  "homepage": "https://github.com/manu-4216/learnyounode#readme"
+}
