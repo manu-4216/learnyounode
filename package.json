@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/manu-4216/learnyounode/issues"
   },
-  "homepage": "https://github.com/manu-4216/learnyounode#readme"
+  "homepage": "https://github.com/manu-4216/learnyounode#readme",
+  "dependencies": {
+    "dateformat": "^2.0.0"
+  }
 }
