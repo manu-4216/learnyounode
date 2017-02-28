@@ -1,7 +1,9 @@
 var http = require('http');
-var url = process.argv[2];
+var urls = process.argv[2].split(' ');
+console.log(urls);
+console.log("hello");
 
-http.get(url, function(response){
+http.get(urls[0], function(response){
     response.setEncoding('utf8');
     
     response.on("error", function(error){
